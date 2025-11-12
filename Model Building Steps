@@ -1,0 +1,11 @@
+1. Data Gathering
+2. Perform basic data quality checks
+3. Remove duplicates if any
+4. Separate your data into X and Y features
+5. Create Data pipelines => Cleaning, Preprocessing
+6. EDA - Exploratory Data Analysis- Descriptive/statiscal Analysis
+7. Train Test Split - Splitting of data into training and testing
+8. Choose the algorithm for final model building
+9. Build the model
+10. Evaluation of model- using respective evaluation metrics=> if the model is really providing accurate results or not. You check with test data(xtest,ytest)-unseen data.
+11. Out of sample predictions with the finalised model.
